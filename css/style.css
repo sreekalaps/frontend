@@ -1,0 +1,13 @@
+.test {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: inherit;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -12);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+    background-image: url(../images/front-end_technologies_bg.webp);
+  }
+.text-color {
+  color:antiquewhite;
+}
