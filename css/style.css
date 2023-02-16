@@ -6,7 +6,7 @@
     margin-top: calc(var(--bs-gutter-y) * -12);
     margin-right: calc(var(--bs-gutter-x) * -.5);
     margin-left: calc(var(--bs-gutter-x) * -.5);
-    background-image: url(../images/front-end_technologies_bg.jpg);
+    background-image: url(../images/front-end_technologies_bg.webp);
   }
 .text-color {
   color:antiquewhite;
